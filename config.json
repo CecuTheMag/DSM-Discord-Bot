@@ -1,0 +1,41 @@
+{
+    "botName": "MyDiscordBot",
+
+    "everyoneRoleId": "",
+    "ticketCategoryId": "",
+    "openTicketChannelId": "",
+    "transcriptsChannelId": "",
+    "welcomeChannelId": "",
+    "memberRoleId": "",
+    "verifiedRoleId": "",
+    "unverifiedRoleId": "",
+
+
+    "info": {
+        "author": "Your Bot Team",
+        "description": "Here are other places we are available to you.",
+        "thumbnail": "https://your-thumbnail-link.png",
+        "image": "https://your-image-link.png",
+        "fields": [
+            { "name": "Discord Server Invite", "value": "https://discord.gg/yourinvite" },
+            { "name": "Discord", "value": "yourdiscordusername" },
+            { "name": "Telegram", "value": "Your Telegram (https://t.me/yourtelegram)" },
+            { "name": "Telegram Channel", "value": "https://t.me/yourchannel" }
+        ],
+        "footer": "Powered by Your Bot Team"
+    },
+
+    "blockedUserIds": [], 
+
+    
+    "welcome": {
+        "title": "Welcome!",
+        "author": "Welcome Bot",
+        "footer": "Have a great stay!",
+        "message": "Welcome to the server!",
+        "fields": [
+            { "name": "What Can You Find Here?", "value": "This is a multi-purpose Discord server bot. Enjoy your stay!" }
+        ],
+        "image": "https://your-image-link.png"
+    }
+}
